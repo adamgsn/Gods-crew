@@ -1,0 +1,49 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+.vercel
+
+.vercel
+
+.vercel
+.env*.local
+
+# real env dumps (never commit)
+.env.vercel-pull
+.env.vercel*
+
+# claude local settings (machine-specific, contains keys)
+.claude/settings.local.json

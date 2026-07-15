@@ -1,0 +1,32 @@
+Retrieving project…
+Resolving deployment "retell-adam-main.vercel.app"
+Streaming logs for deployment dpl_4wp7q4v2hPshHxoM4kVbHiBFwqNJ starting from 20:01:34.00
+
+waiting for new logs...
+20:01:38.72  ℹ️  GET  ---  retell-adam-main.vercel.app  ƒ  /api/dashboard
+-------------------------------------------------------------------------
+{"level":"info","message":"Dashboard data loaded","timestamp":"2026-05-06T14:31:38.727Z","prospectsTotal":16,"callsToday":14,"activityItems":10}
+
+waiting for new logs...
+20:02:09.33  ℹ️  GET  ---  retell-adam-main.vercel.app  ƒ  /api/dashboard
+-------------------------------------------------------------------------
+{"level":"info","message":"Dashboard data loaded","timestamp":"2026-05-06T14:32:09.334Z","prospectsTotal":16,"callsToday":14,"activityItems":10}
+
+waiting for new logs...
+20:02:38.74  ℹ️  GET  ---  retell-adam-main.vercel.app  ƒ  /api/dashboard
+-------------------------------------------------------------------------
+{"level":"info","message":"Dashboard data loaded","timestamp":"2026-05-06T14:32:38.740Z","prospectsTotal":16,"callsToday":14,"activityItems":10}
+
+waiting for new logs...
+20:03:09.09  ℹ️  GET  ---  retell-adam-main.vercel.app  ƒ  /api/dashboard
+-------------------------------------------------------------------------
+{"level":"info","message":"Dashboard data loaded","timestamp":"2026-05-06T14:33:09.096Z","prospectsTotal":16,"callsToday":14,"activityItems":10}
+
+waiting for new logs...
+20:03:38.41  ℹ️  GET  ---  retell-adam-main.vercel.app  ƒ  /api/dashboard
+-------------------------------------------------------------------------
+{"level":"info","message":"Dashboard data loaded","timestamp":"2026-05-06T14:33:38.416Z","prospectsTotal":16,"callsToday":14,"activityItems":10}
+
+waiting for new logs...
+WARNING! Command automatically interrupted after 5 minutes.
+
