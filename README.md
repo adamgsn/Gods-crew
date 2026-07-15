@@ -181,22 +181,7 @@ node scripts/batch-dial.js 3
 
 ---
 
-## 9. CEO RUNBOOK (Day 1 Operations)
 
-```bash
-# Upload new prospects (CSV with columns: phone, company_name, contact_name)
-# Use Supabase Dashboard → Table Editor → prospects → Import CSV
-
-# Start dialing (from your laptop)
-node scripts/batch-dial.js 50
-
-# Check results
-# Supabase Dashboard → Table Editor → prospects → filter by status
-
-# Stop all calling immediately
-# Kill the batch-dial.js process (Ctrl+C)
-# Cron followups will NOT call any do_not_call or closed prospects
-```
 
 ---
 
